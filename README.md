@@ -1,14 +1,6 @@
-# Low-Level-Application-Design
-Putting working code of low level application design
+# Low level design
+Lately there has been a lot of buzz around low level design aka Machine coding.
+Here is my attempt in implementing low level design of some of the problems asked in interviews or in general are fun to think about.
 
-## Snake And Ladder 
-### First Draft. 
-* Basic implementation of Snakes and Ladder Game
-* Support option to add Ladders, snakes and Players
-
-UML looks like:-
-
-
-Commit id - 
-
+Some of the code might be broken, some may not be following the best practice. Some variable names might be not the best. Let's talk about them.
 
