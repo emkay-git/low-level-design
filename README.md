@@ -2,5 +2,5 @@
 Lately there has been a lot of buzz around low level design aka Machine coding.
 Here is my attempt in implementing low level design of some of the problems asked in interviews or in general are fun to think about.
 
-Some of the code might be broken, some may not be following the best practice. Some variable names might be not the best. Let's talk about them.
+Disclaimer: These solutions are far from perfect (and some may not work). You can use them as a reference on how to design models and different services.
 
