@@ -1,6 +1,6 @@
-#Inventory Management
+# Inventory Management
 
-###Problem Statement
+### Problem Statement
 
 Given an inventory of products, user should be able to
 * List all the products
